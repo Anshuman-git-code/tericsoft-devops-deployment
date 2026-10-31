@@ -1,0 +1,8 @@
+.git
+.gitignore
+.github
+terraform/
+scripts/
+README.md
+*.md
+.DS_Store
