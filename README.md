@@ -29,8 +29,6 @@ This project packages a small static website in a Docker image using Nginx. The 
 
 ## Project Structure
 
-![Repository folder structure showing application, Nginx, scripts, Terraform configuration, assets and README](assets/06-repository-structure.png)
-
 ```text
 .
 ├── app/
