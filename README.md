@@ -1,4 +1,4 @@
-# Tericsoft DevOps Internship — Containerized App Deployment
+
 
 ![Containerized application deployment — Terraform, Docker, EC2 and ECS Fargate](assets/00-readme-banner.png)
 
